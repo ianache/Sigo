@@ -7,5 +7,4 @@ Integrate Google Maps for service locations
 I need to the left dates are organized by day time hours (a date can last 30 minutos or hours) and by column people responsibles to execute date service.
 
 
-
-
+Calendar dates can be filtered by date, responsibles, unit type (car, motorcycle, scooter, puppet, etc) , service type (installation, maintenance, retirement) and dates state (planned, in progress, finished, approved or cancelled)
